@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.android.fragmentexample1",
+  "applicationId": "com.example.fragments",
   "variantName": "debug",
   "elements": [
     {

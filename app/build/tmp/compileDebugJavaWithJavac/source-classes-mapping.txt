@@ -1,7 +1,10 @@
-com/example/android/fragmentexample1/SimpleFragment.java
- com.example.android.fragmentexample1.SimpleFragment
- com.example.android.fragmentexample1.SimpleFragment$1
-com/example/android/fragmentexample1/MainActivity.java
- com.example.android.fragmentexample1.MainActivity
-com/example/android/fragmentexample1/BuildConfig.java
- com.example.android.fragmentexample1.BuildConfig
+com/example/fragments/MainActivity.java
+ com.example.fragments.MainActivity
+ com.example.fragments.MainActivity$1
+com/example/fragments/SimpleFragment.java
+ com.example.fragments.SimpleFragment
+ com.example.fragments.SimpleFragment$1
+com/example/fragments/BuildConfig.java
+ com.example.fragments.BuildConfig
+com/example/fragments/SecondActivity.java
+ com.example.fragments.SecondActivity

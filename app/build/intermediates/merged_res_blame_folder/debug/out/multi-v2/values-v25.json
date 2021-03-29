@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Sabdika\\Lab_Excercise\\FragmentExample1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+            "outputFile": "D:\\Sabdika\\Lab_Excercise\\Homework_Fragment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\3b80147b740d6854a06ef7d7f41f0259\\appcompat-v7-26.0.1\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\44b21666f861b2b454523071d69d07d7\\appcompat-1.2.0\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",
