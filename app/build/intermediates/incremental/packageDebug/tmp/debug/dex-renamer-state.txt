@@ -1,0 +1,4 @@
+#Mon Mar 29 19:27:56 NPT 2021
+base.0=D\:\\Sabdika\\Lab_Excercise\\FragmentExample1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
