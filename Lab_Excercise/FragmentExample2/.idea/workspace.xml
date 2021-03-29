@@ -10,48 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8bfa504-e027-4b9e-b94b-d7ffda939421" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/androidTest/java/com/sabdika/androidtodofirst/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/java/com/sabdika/androidtodofirst/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/app/src/test/java/com/sabdika/androidtodofirst/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AndroidTodoFirst/settings.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="f8bfa504-e027-4b9e-b94b-d7ffda939421" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
